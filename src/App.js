@@ -33,9 +33,11 @@ function App() {
 **bold text**
 
 *italicized text*
+![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
 
----
-<img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg">
+
+
+
 `);
 
 marked.setOptions({
